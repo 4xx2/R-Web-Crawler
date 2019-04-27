@@ -1,3 +1,10 @@
+#导入Library
+library(jiebaR)
+library(tidyverse)
+library(rvest)
+library(wordcloud2)
+
+
 #导入链接
 url <- "http://www.gov.cn/premier/2017-03/16/content_5177940.htm"
 
